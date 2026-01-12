@@ -1,0 +1,8 @@
+{
+  "name": "전주사랑상품권 (Jeonju Pay)",
+  "description": "전주 지역 경제 활성화를 위한 지역화폐 모바일 플랫폼. 충전, 결제, 캐시백 관리 및 가맹점 찾기 기능을 제공합니다.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
